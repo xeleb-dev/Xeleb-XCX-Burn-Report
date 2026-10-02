@@ -10,15 +10,10 @@ Each report includes reported revenue, burn amounts, token sources, calculation 
 | Item                | Details                                                                                                                                            |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Token               | Xeleb AI (XCX)                                                                                                                                     |
-| ---                 | ---                                                                                                                                                |
 | Network             | BNB Smart Chain (BEP-20)                                                                                                                           |
-| ---                 | ---                                                                                                                                                |
 | Token Contract      | [View on BscScan](https://bscscan.com/token/0xe32f9e8f7f7222fcd83ee0fc68baf12118448eaf)                                                            |
-| ---                 | ---                                                                                                                                                |
 | Dead Address        | [View on Bsc Scan](https://bscscan.com/token/0xe32f9e8f7f7222fcd83ee0fc68baf12118448eaf?a=0x000000000000000000000000000000000000dead#transactions) |
-| ---                 | ---                                                                                                                                                |
 | Xeleb Treasury Burn | [View on Bsc Scan](https://bscscan.com/address/0x8470120C8D3434d8Ac593E6A1ab6f94CE1886d70)                                                         |
-| ---                 | ---                                                                                                                                                |
 
 ##
 <img width="1958" height="745" alt="531231263_122144564744740118_5559830556576701492_n" src="https://github.com/user-attachments/assets/26791669-5d59-41a9-9742-8f2c9579e0d7" />
@@ -51,15 +46,10 @@ Browse Xeleb's monthly, quarterly, and annual burn reports.
 | **Reporting Period** | **Report**                                                                                   |
 | -------------------- | -------------------------------------------------------------------------------------------- |
 | September 2026       | [View Report](https://github.com/xeleb-dev/Xeleb-XCX-Burn-Report/blob/main/September%202026) |
-| ---                  | ---                                                                                          |
 | October 2026         | Coming soon                                                                                  |
-| ---                  | ---                                                                                          |
 | November 2026        | Coming soon                                                                                  |
-| ---                  | ---                                                                                          |
 | Q4 2026              | Coming soon                                                                                  |
-| ---                  | ---                                                                                          |
 | Annual Report 2026   | Coming soon                                                                                  |
-| ---                  | ---                                                                                          |
 
 Each report includes:
 
