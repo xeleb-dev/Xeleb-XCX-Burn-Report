@@ -1,0 +1,75 @@
+Xeleb Monthly Burn Report - September 2026
+Reporting period: September 1-30, 2026
+Scheduled burn date: October 5, 2026
+Network: BNB Smart Chain
+🔗 On-chain Verification
+Item
+Details
+Network
+BNB Smart Chain
+XCX Contract
+0xE32f9e8F7f7222fcd83EE0fC68bAf12118448Eaf
+Treasury/Burn Wallet
+0x8470120C8D3434d8Ac593E6A1ab6f94CE1886d70
+Dead Address
+0x000000000000000000000000000000000000dEaD
+
+Total $XCX burned: 470,300 XCX
+Total Burn Value (USD): $23,515 - Valued at the snapshot price of $0.05 per XCX.
+Transaction
+Route
+XCX Amount
+Evidence
+TX 1 Funding
+Exchange withdrawal → Treasury/Burn Wallet
+470,300
+https://bscscan.com/tx/0x8385434e25cc0208dec32d2c177379a6c947d4df920934f259f55332b161d844
+TX 2 Burn
+Treasury/Burn Wallet → Dead Address
+470,300
+https://bscscan.com/tx/0x7c6cc03dc15e8d1551651547817122c863c90f695e63764caae284e513862b1e 
+
+🔥 Burn Summary
+Burn Source
+XCX Amount
+Reference Value (USD)
+Trading-fee Burn
+22,000
+$1,100
+Revenue-linked Treasury Burn
+348,300
+$17,415
+Team Allocation Burn
+100,000
+$5,000
+Total
+470,300
+$23,515
+
+Reference price: $0.05 per XCX
+📊 Revenue Summary
+Revenue Stream
+Reported Revenue (USD)
+AI Content Package
+$18,100
+Agent Setup & Hosting
+$7,950
+Premium AI Access
+$12,000
+Consulting
+$20,000
+Total
+$58,050
+
+⚙️ $XCX Buyback & Burn Mechanism
+1. Automatic Burn
+Automatically burns 1% of the XCX amount and 0.2% of the AI Influencer token amount in each eligible bonding curve transaction, with burns recorded on-chain.
+2. Monthly Revenue-linked Burn
+Each month, Xeleb applies 30% of reported revenue from bonding activities, marketplace fees, AI services, and other revenue streams to one of two burn methods:
+Buyback & Burn: Use the allocated funds to repurchase XCX from the open market and permanently burn the acquired tokens.
+Treasury Burn: Burn existing Treasury XCX with a reference value equivalent to 30% of reported monthly revenue.
+The method used is specified in each monthly report.
+3. Team Allocation Burn
+The team may voluntarily burn a portion of its allocated $XCX, in addition to automatic burns and monthly revenue buybacks. Each burn will disclose the token amount, source wallet, and on-chain transaction for community verification.
+Disclaimer
+This report is based on Xeleb’s internal records. Customer information and revenue documentation remain confidential. The community can verify the amount of XCX transferred to the dead address through the published on-chain transactions; revenue figures and burn-source classifications are provided by Xeleb.
