@@ -6,20 +6,22 @@
 
 ## **🔗 On-chain Verification**
 
-| Item                 | Details                                    |
-| -------------------- | ------------------------------------------ |
-| Network              | BNB Smart Chain                            |
-| XCX Contract         | 0xE32f9e8F7f7222fcd83EE0fC68bAf12118448Eaf |
-| Treasury/Burn Wallet | 0x8470120C8D3434d8Ac593E6A1ab6f94CE1886d70 |
-| Dead Address         | 0x000000000000000000000000000000000000dEaD |
+| Item                | Details                                                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Token               | Xeleb AI (XCX)                                                                                                                                     |                                                                                     |
+| Network             | BNB Smart Chain (BEP-20)                                                                                                                                                                                                                                            |
+| Token Contract      | [View on BscScan](https://bscscan.com/token/0xe32f9e8f7f7222fcd83ee0fc68baf12118448eaf)                                                                                                                                             |
+| Dead Address        | [View on Bsc Scan](https://bscscan.com/token/0xe32f9e8f7f7222fcd83ee0fc68baf12118448eaf?a=0x000000000000000000000000000000000000dead#transactions) |                                                                                                 |
+| Xeleb Treasury Burn | [View on Bsc Scan](https://bscscan.com/address/0x8470120C8D3434d8Ac593E6A1ab6f94CE1886d70)                                                                                                                                                                                       |
 
 - Total \$XCX burned: 470,300 XCX
+
 - Total Burn Value (USD): \$23,515 - _Valued at the snapshot price of \$0.05 per XCX._
 
-| **Transaction** | **Route**                                  | **XCX Amount** | **Evidence**                                                                                |
-| --------------- | ------------------------------------------ | -------------- | ------------------------------------------------------------------------------------------- |
-| TX 1 Funding    | Exchange withdrawal → Treasury/Burn Wallet | 470,300        | <https://bscscan.com/tx/0x8385434e25cc0208dec32d2c177379a6c947d4df920934f259f55332b161d844> |
-| TX 2 Burn       | Treasury/Burn Wallet → Dead Address        | 470,300        | <https://bscscan.com/tx/0x7c6cc03dc15e8d1551651547817122c863c90f695e63764caae284e513862b1e> |
+| **Transaction** | **XCX Amount** | **Evidence**                                                                                |
+| --------------- | -------------- | ------------------------------------------------------------------------------------------- |
+| TX 1 Funding    | 470,300        | <https://bscscan.com/tx/0x8385434e25cc0208dec32d2c177379a6c947d4df920934f259f55332b161d844>                                                                                     |
+| TX 2 Burn       | 470,300        | <https://bscscan.com/tx/0x7c6cc03dc15e8d1551651547817122c863c90f695e63764caae284e513862b1e> |                                                               |
 
 ## **🔥 Burn Summary**
 
@@ -41,7 +43,6 @@
 | Premium AI Access     | \$12,000                   |
 | Consulting            | \$20,000                   |
 | Total                 | \$58,050                   |
-
 
 ## **⚙️ \$XCX Buyback & Burn Mechanism**
 
